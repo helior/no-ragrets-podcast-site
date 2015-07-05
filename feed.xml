@@ -27,7 +27,17 @@
         <description>Random episodes about nothing of importance.</description>
         <itunes:summary>Random episodes about nothing of importance</itunes:summary>
         <itunes:subtitle>Set your expectations to "low".</itunes:subtitle>
-        <lastBuildDate>Sun, 05 July 2015 00:00:00 PST</lastBuildDate>
+        <lastBuildDate>Tues, 16 June 2015 00:00:00 PST</lastBuildDate>
+        <item>
+            <title>Nonsense Colon Thunderbird Ginger Beer</title>
+            <description>Talk about general topics.</description>
+            <itunes:summary>Talk about general topics.</itunes:summary>
+            <itunes:subtitle>Where are we?</itunes:subtitle>
+            <enclosure url="http://untitled-podcast.surge.sh/audio/s01e02.m4a" type="audio/x-m4a" />
+            <guid>http://untitled-podcast.surge.sh/audio/s01e02.m4a</guid>
+            <itunes:duration>0:00:17</itunes:duration>
+            <pubDate>Tues, 16 June 2015 00:00:00 PST</pubDate>
+        </item>
         <item>
             <title>Sports Ball Ep. 01</title>
             <description>We talk all we know about sports.</description>
@@ -36,7 +46,11 @@
             <enclosure url="http://untitled-podcast.surge.sh/audio/s01e01.m4a" type="audio/x-m4a" />
             <guid>http://untitled-podcast.surge.sh/audio/s01e01.m4a</guid>
             <itunes:duration>0:00:52</itunes:duration>
-            <pubDate>Sun, 05 July 2015 00:00:00 PST</pubDate>
+            <pubDate>Fri, 01 May 2015 00:00:00 PST</pubDate>
         </item>
     </channel>
 </rss>
+We Turned Out Okay, I guess
+The 30 Years That Led to This
+No Ragrets
+Sadly, Yes
