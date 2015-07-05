@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
     <channel>
-        <link>http://untitled-podcast.surge.sh</link>
+        <link>http://no-ragrets.surge.sh</link>
         <language>en-us</language>
         <copyright>&#xA9;2015</copyright>
         <webMaster>ihatespam@helior.info (Helior Colorado)</webMaster>
         <image>
-            <url>http://untitled-podcast.surge.sh/podcast-cover.png</url>
-            <title>We Turned Out Okay, I Guess Podcast</title>
-            <link>http://untitled-podcast.surge.sh</link>
+            <url>http://no-ragrets.surge.sh/podcast-cover.png</url>
+            <title>No Ragrets Podcast</title>
+            <link>http://no-ragrets.surge.sh</link>
         </image>
         <itunes:owner>
             <itunes:name>Helior Colorado</itunes:name>
@@ -19,8 +19,8 @@
         </itunes:category>
         <itunes:keywords>helior, random, friends</itunes:keywords>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:image href="http://untitled-podcast.surge.sh/images/podcast-cover.png" />
-        <atom:link href="http://untitled-podcast.surge.sh/feed.xml" rel="self" type="application/rss+xml" />
+        <itunes:image href="http://no-ragrets.surge.sh/images/podcast-cover.png" />
+        <atom:link href="http://no-ragrets.surge.sh/feed.xml" rel="self" type="application/rss+xml" />
         <pubDate>Sun, 05 July 2015 00:00:00 PST</pubDate>
         <title>No Ragrets</title>
         <itunes:author>Helior Colorado &amp; Friends</itunes:author>
@@ -33,8 +33,8 @@
             <description>Talk about general topics.</description>
             <itunes:summary>Talk about general topics.</itunes:summary>
             <itunes:subtitle>Where are we?</itunes:subtitle>
-            <enclosure url="http://untitled-podcast.surge.sh/audio/s01e02.m4a" type="audio/x-m4a" />
-            <guid>http://untitled-podcast.surge.sh/audio/s01e02.m4a</guid>
+            <enclosure url="http://no-ragrets.surge.sh/audio/s01e02.m4a" type="audio/x-m4a" />
+            <guid>http://no-ragrets.surge.sh/audio/s01e02.m4a</guid>
             <itunes:duration>0:00:17</itunes:duration>
             <pubDate>Tues, 16 June 2015 00:00:00 PST</pubDate>
         </item>
@@ -43,8 +43,8 @@
             <description>We talk all we know about sports.</description>
             <itunes:summary>We talk all we know about sports.</itunes:summary>
             <itunes:subtitle>Sports talkie..</itunes:subtitle>
-            <enclosure url="http://untitled-podcast.surge.sh/audio/s01e01.m4a" type="audio/x-m4a" />
-            <guid>http://untitled-podcast.surge.sh/audio/s01e01.m4a</guid>
+            <enclosure url="http://no-ragrets.surge.sh/audio/s01e01.m4a" type="audio/x-m4a" />
+            <guid>http://no-ragrets.surge.sh/audio/s01e01.m4a</guid>
             <itunes:duration>0:00:52</itunes:duration>
             <pubDate>Fri, 01 May 2015 00:00:00 PST</pubDate>
         </item>
