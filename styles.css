@@ -1,0 +1,21 @@
+.faces {
+  /* Old browsers */
+  background: #c5d4d7;
+  /* FF3.6+ */
+  background: -moz-linear-gradient(-45deg, #c5d4d7 6%, #d6b98d 34%, #c99262 57%, #8c5962 80%, #43577e 100%);
+  /* Chrome,Safari4+ */
+  background: -webkit-gradient(linear, left top, right bottom, color-stop(6%, #c5d4d7), color-stop(34%, #d6b98d), color-stop(57%, #c99262), color-stop(80%, #8c5962), color-stop(100%, #43577e));
+  /* Chrome10+,Safari5.1+ */
+  background: -webkit-linear-gradient(-45deg, #c5d4d7 6%, #d6b98d 34%, #c99262 57%, #8c5962 80%, #43577e 100%);
+  /* Opera 11.10+ */
+  background: -o-linear-gradient(-45deg, #c5d4d7 6%, #d6b98d 34%, #c99262 57%, #8c5962 80%, #43577e 100%);
+  /* IE10+ */
+  background: -ms-linear-gradient(-45deg, #c5d4d7 6%, #d6b98d 34%, #c99262 57%, #8c5962 80%, #43577e 100%);
+  /* W3C */
+  background: linear-gradient(135deg, #c5d4d7 6%, #d6b98d 34%, #c99262 57%, #8c5962 80%, #43577e 100%);
+}
+.faces .col {
+  /* this prevents the background color from leaking in between the columns. */
+  padding:0;
+  line-height:0;
+}
