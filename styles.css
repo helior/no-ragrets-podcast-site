@@ -19,3 +19,6 @@
   padding:0;
   line-height:0;
 }
+.small-text {
+  font-size: 0.8rem;
+}

@@ -6,7 +6,7 @@
         <copyright>&#xA9;2015</copyright>
         <webMaster>ihatespam@helior.info (Helior Colorado)</webMaster>
         <image>
-            <url>http://untitled-podcast.surge.sh/face-helior.png</url>
+            <url>http://untitled-podcast.surge.sh/podcast-cover.png</url>
             <title>We Turned Out Okay, I Guess Podcast</title>
             <link>http://untitled-podcast.surge.sh</link>
         </image>
@@ -19,10 +19,10 @@
         </itunes:category>
         <itunes:keywords>helior, random, friends</itunes:keywords>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:image href="http://untitled-podcast.surge.sh/images/face-helior.png" />
+        <itunes:image href="http://untitled-podcast.surge.sh/images/podcast-cover.png" />
         <atom:link href="http://untitled-podcast.surge.sh/feed.xml" rel="self" type="application/rss+xml" />
         <pubDate>Sun, 05 July 2015 00:00:00 PST</pubDate>
-        <title>I need to think of a good name for this podcast</title>
+        <title>No Ragrets</title>
         <itunes:author>Helior Colorado &amp; Friends</itunes:author>
         <description>Random episodes about nothing of importance.</description>
         <itunes:summary>Random episodes about nothing of importance</itunes:summary>
@@ -50,7 +50,3 @@
         </item>
     </channel>
 </rss>
-We Turned Out Okay, I guess
-The 30 Years That Led to This
-No Ragrets
-Sadly, Yes
