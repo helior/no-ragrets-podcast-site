@@ -27,7 +27,17 @@
         <description>Random episodes about nothing of importance.</description>
         <itunes:summary>Random episodes about nothing of importance</itunes:summary>
         <itunes:subtitle>Set your expectations to "low".</itunes:subtitle>
-        <lastBuildDate>Tues, 16 June 2015 00:00:00 PST</lastBuildDate>
+        <lastBuildDate>Tues, 10 July 2015 00:00:00 PST</lastBuildDate>
+        <item>
+            <title>Adventure Time!</title>
+            <description>The Philosophical Buddhism Show Ep. 01</description>
+            <itunes:summary>The Philosophical Buddhism Show Ep. 01</itunes:summary>
+            <itunes:subtitle>I'm an African</itunes:subtitle>
+            <enclosure url="http://no-ragrets.surge.sh/audio/s01e03.m4a" type="audio/x-m4a" />
+            <guid>http://no-ragrets.surge.sh/audio/s01e03.m4a</guid>
+            <itunes:duration>0:03:58</itunes:duration>
+            <pubDate>Tues, 10 July 2015 00:00:00 PST</pubDate>
+        </item>
         <item>
             <title>Nonsense Colon Thunderbird Ginger Beer</title>
             <description>Talk about general topics.</description>
