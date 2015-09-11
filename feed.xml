@@ -27,7 +27,17 @@
         <description>Random episodes about nothing of importance.</description>
         <itunes:summary>Random episodes about nothing of importance</itunes:summary>
         <itunes:subtitle>Set your expectations to "low".</itunes:subtitle>
-        <lastBuildDate>Tues, 10 July 2015 00:00:00 PST</lastBuildDate>
+        <lastBuildDate>Fri, 11 September 2015 00:00:00 PST</lastBuildDate>
+        <item>
+            <title>It's the Roger, Jose, and Jake, and Helior Show!!</title>
+            <description>Vandalism, Little Jimmy, Living Longer, Conciousness, and Ninja Turtles</description>
+            <itunes:summary>Vandalism, Little Jimmy, Living Longer, Conciousness, and Ninja Turtles</itunes:summary>
+            <itunes:subtitle>Take your panties off</itunes:subtitle>
+            <enclosure url="http://no-ragrets.surge.sh/audio/s01e04.m4a" type="audio/x-m4a" />
+            <guid>http://no-ragrets.surge.sh/audio/s01e04.m4a</guid>
+            <itunes:duration>0:08:40</itunes:duration>
+            <pubDate>Fri, 11 September 2015 00:00:00 PST</pubDate>
+        </item>
         <item>
             <title>Adventure Time!</title>
             <description>The Philosophical Buddhism Show Ep. 01</description>
@@ -36,7 +46,7 @@
             <enclosure url="http://no-ragrets.surge.sh/audio/s01e03.m4a" type="audio/x-m4a" />
             <guid>http://no-ragrets.surge.sh/audio/s01e03.m4a</guid>
             <itunes:duration>0:03:58</itunes:duration>
-            <pubDate>Tues, 10 July 2015 00:00:00 PST</pubDate>
+            <pubDate>Fri, 10 July 2015 00:00:00 PST</pubDate>
         </item>
         <item>
             <title>Nonsense Colon Thunderbird Ginger Beer</title>
@@ -46,7 +56,7 @@
             <enclosure url="http://no-ragrets.surge.sh/audio/s01e02.m4a" type="audio/x-m4a" />
             <guid>http://no-ragrets.surge.sh/audio/s01e02.m4a</guid>
             <itunes:duration>0:00:17</itunes:duration>
-            <pubDate>Tues, 16 June 2015 00:00:00 PST</pubDate>
+            <pubDate>Tue, 16 June 2015 00:00:00 PST</pubDate>
         </item>
         <item>
             <title>Sports Ball Ep. 01</title>
